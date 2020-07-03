@@ -22,7 +22,7 @@ int main()
            
             B = B + (pow(10, i));
 
-            n = (n - pow(2, i));
+            n = n - pow(2, i);
 
         }
     }
